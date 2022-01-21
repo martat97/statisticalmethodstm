@@ -1,1 +1,1 @@
-# statisticalmethodstm
+# Statistical Methods 
